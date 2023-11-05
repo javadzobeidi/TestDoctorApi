@@ -1,0 +1,17 @@
+F:\DoctorApp\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+F:\DoctorApp\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\DoctorApp\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+F:\DoctorApp\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+F:\DoctorApp\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+F:\DoctorApp\Application\bin\Debug\net7.0\Application.deps.json
+F:\DoctorApp\Application\bin\Debug\net7.0\Application.runtimeconfig.json
+F:\DoctorApp\Application\bin\Debug\net7.0\Application.dll
+F:\DoctorApp\Application\bin\Debug\net7.0\Application.pdb
+F:\DoctorApp\Application\bin\Debug\net7.0\Domain.dll
+F:\DoctorApp\Application\bin\Debug\net7.0\Domain.pdb
+F:\DoctorApp\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+F:\DoctorApp\Application\obj\Debug\net7.0\Application.dll
+F:\DoctorApp\Application\obj\Debug\net7.0\refint\Application.dll
+F:\DoctorApp\Application\obj\Debug\net7.0\Application.pdb
+F:\DoctorApp\Application\obj\Debug\net7.0\Application.genruntimeconfig.cache
+F:\DoctorApp\Application\obj\Debug\net7.0\ref\Application.dll

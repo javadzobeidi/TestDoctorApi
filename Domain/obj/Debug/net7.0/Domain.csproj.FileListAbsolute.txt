@@ -1,0 +1,12 @@
+F:\DoctorApp\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+F:\DoctorApp\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\DoctorApp\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+F:\DoctorApp\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+F:\DoctorApp\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+F:\DoctorApp\Domain\bin\Debug\net7.0\Domain.deps.json
+F:\DoctorApp\Domain\bin\Debug\net7.0\Domain.dll
+F:\DoctorApp\Domain\bin\Debug\net7.0\Domain.pdb
+F:\DoctorApp\Domain\obj\Debug\net7.0\Domain.dll
+F:\DoctorApp\Domain\obj\Debug\net7.0\refint\Domain.dll
+F:\DoctorApp\Domain\obj\Debug\net7.0\Domain.pdb
+F:\DoctorApp\Domain\obj\Debug\net7.0\ref\Domain.dll

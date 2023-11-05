@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TestDoctorApp.Api.props" />
+</Project>

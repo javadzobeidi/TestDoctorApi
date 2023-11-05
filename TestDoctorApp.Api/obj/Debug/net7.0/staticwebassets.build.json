@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BdlzoLcBArjvRDW8avO7auu53MqqcL9pYQfe20yi8Is=",
+  "Source": "TestDoctorApp.Api",
+  "BasePath": "_content/TestDoctorApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
